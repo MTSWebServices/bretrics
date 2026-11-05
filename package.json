@@ -52,19 +52,19 @@
     "@nestjs/cli": "^12.0.10",
     "@nestjs/schematics": "^12.0.10",
     "@nestjs/testing": "^12.2.0",
-    "@swc/cli": "^0.8.1",
-    "@swc/core": "^1.16.20",
+    "@swc/cli": "^0.8.2",
+    "@swc/core": "^1.16.21",
     "fastify": "^5.12.7",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
-    "@types/node": "^26.6.5",
+    "@types/node": "^26.6.6",
     "@types/node-fetch": "^3.0.2",
     "@types/sharp": "^0.32.0",
     "@types/supertest": "^7.2.1",
     "eslint": "^10.13.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.7",
-    "globals": "^17.13.0",
+    "globals": "^17.14.0",
     "husky": "^9.1.7",
     "jest": "^30.5.2",
     "lint-staged": "^17.6.0",
@@ -78,7 +78,7 @@
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^7.0.2",
-    "typescript-eslint": "^8.72.0"
+    "typescript-eslint": "^8.72.1"
   },
   "jest": {
     "moduleFileExtensions": [
